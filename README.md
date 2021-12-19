@@ -2,7 +2,7 @@
 
 This is a simple feedback project . It allows users to add, update and delete feedback. It uses a mock REST api with json-server.
 
-## This project using all of the fundamentals of React including...
+## This project utilizes all of the fundamentals of React including...
 
 - Components
 - JSX
